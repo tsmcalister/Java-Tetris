@@ -1,4 +1,4 @@
 Java-Tetris
 ===========
 
-Tetris Speed Code in Java
+Speed code of Tetris in Java.
